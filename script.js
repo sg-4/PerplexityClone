@@ -95,4 +95,4 @@ messageInput.addEventListener('keypress', function (event) {
 });
 
 // Initial greeting message (appears when chat loads)
-displayMessage("How can I help you explore today?", 'ai'); // Or your preferred opening line
+displayMessage("I'm your research agent. Let me know what you'd like to learn about.", 'ai'); // Or your preferred opening line
